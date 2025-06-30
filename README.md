@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👨‍💻 Ahsan Hussain
 
-## Full-Stack Software Engineer | 5+ Years of Experience
+## Full-Stack Software Engineer | 10+ Years of Experience
 
 Passionate software engineer with over 5 years of experience building scalable web applications, APIs, and modern software solutions. Specialized in JavaScript/TypeScript ecosystems, cloud technologies, and full-stack development with a focus on creating user-centric applications.
 
