@@ -151,7 +151,7 @@ _Secure authentication and authorization system with JWT tokens_
 
 ### 🏆 **Achievements**
 
-- **5+ Years** of professional development experience
+- **10+ Years** of professional development experience
 - **20+ Projects** completed across various domains
 - **Full-Stack Expertise** in modern web technologies
 - **Team Leadership** and mentoring experience
