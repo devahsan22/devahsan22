@@ -9,12 +9,12 @@ Passionate software engineer with over 10 years of experience building scalable 
 
 ### 🚀 **What I Do**
 
-- **Full-Stack Development** - React, Node.js, Express, Python, Kotlin, , MongoDB, PostgreSQL
-- **Cloud & DevOps** - AWS, Docker, CI/CD, Kubernetes
-- **API Development** - RESTful APIs, GraphQL, Microservices Architecture
+- **Full-Stack Development** - React, Next, Angular, React Native, Node.js, Express, Python, Kotlin, dotNet, PHP, PHP Laravel, MongoDB, PostgreSQL
+- **Cloud & DevOps** - AWS, GCP, Azure, Docker, CI/CD, Kubernetes
+- **API Development** - RESTful APIs, GraphQL, Microservices Architecture, Design Patterns
 - **Database Design** - SQL, NoSQL, Data Modeling, Performance Optimization
-- **Testing & Quality** - Unit Testing, Integration Testing, TDD/BDD
-- **UI/UX Development** - Responsive Design, Modern Web Interfaces
+- **Testing & Quality** - Unit Testing, Integration Testing, End to End Testing, TDD/BDD
+- **UI/UX Development** - Responsive Design, Modern Web, and Mobile Interfaces
 
 ### 🛠 **Tech Stack**
 
