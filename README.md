@@ -3,13 +3,13 @@
 
 ## Full-Stack Software Engineer | 10+ Years of Experience
 
-Passionate software engineer with over 5 years of experience building scalable web applications, APIs, and modern software solutions. Specialized in JavaScript/TypeScript ecosystems, cloud technologies, and full-stack development with a focus on creating user-centric applications.
+Passionate software engineer with over 10 years of experience building scalable web applications, APIs, and modern software solutions. Specialized in JavaScript/TypeScript ecosystems, cloud technologies, and full-stack development with a focus on creating user-centric applications.
 
 ---
 
 ### 🚀 **What I Do**
 
-- **Full-Stack Development** - React, Node.js, Express, MongoDB, PostgreSQL
+- **Full-Stack Development** - React, Node.js, Express, Python, Kotlin, , MongoDB, PostgreSQL
 - **Cloud & DevOps** - AWS, Docker, CI/CD, Kubernetes
 - **API Development** - RESTful APIs, GraphQL, Microservices Architecture
 - **Database Design** - SQL, NoSQL, Data Modeling, Performance Optimization
